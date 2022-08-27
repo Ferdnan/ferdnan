@@ -1,6 +1,6 @@
 <div align="center"><h1>Estudante de Desenvolvimento Back-endp</h1></div>
 
-<div align="center">
+<div align="center" style="display:flex;">
 <div>
   <a href="https://github.com/ferdnan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferdnan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
