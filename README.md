@@ -6,16 +6,6 @@
   <a href="https://github.com/ferdnan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferdnan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdnan&layout=compact&langs_count=7&theme=dark"/>
-  
-   ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lt-lopes1994&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-</div>
-
-<div align="center">
-  <br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
 </div>
 
 <br>
